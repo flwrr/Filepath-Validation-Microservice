@@ -38,4 +38,6 @@ response = socket.recv_string()
 print("Received response:", response)
 ```
 
+## UML Diagram
 
+![UML-Diagram](https://github.com/user-attachments/assets/03d5c550-ab30-4fd1-b6fb-ceacb92da2ad)
